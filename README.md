@@ -124,7 +124,7 @@ Current Goals:
   <img src="https://img.shields.io/badge/HackerRank-hi__alam1740-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="mailto:hi.alam1740@gmail.com">
+<a href="mailto:hi.alam2027@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-hi.alam1740%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
